@@ -1,0 +1,79 @@
+.content{
+  margin: 30px;
+}
+
+.contatos a{
+  font-weight: 600;
+}
+
+.contatos a:hover{
+  transition: 0.2s;
+  color: rgb(99, 99, 99);
+}
+
+.header{
+  background-color: lightgray;
+  display: flex;
+  padding-left:30px;
+  align-self: center;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header a{
+  text-decoration: none;
+  color: black;
+}
+
+.footer{
+  background-color: rgb(29, 29, 29);
+  color: white;
+  padding: 15px;
+  text-align: center;
+  font-size:large;
+  margin-top: 20px;
+}
+
+.info{
+  align-items: center;
+  font-size: larger;
+  margin-bottom: 40px;
+}
+
+.produtos{
+  display: inline-block;
+  padding: 20px;
+  text-align: center;
+  width: 25%;
+}
+
+.produtos p{
+  font-size: larger;
+}
+
+.links {
+  padding-right: 30px;
+}
+
+.links a{
+  padding-left: 50px;
+  font-weight: 600;
+  font-size: large;
+}
+
+.links a:hover{
+  transition: 0.2s;
+  color: rgb(99, 99, 99);
+}
+
+.preco{
+  font-weight: bold;
+}
+
+.produto h3{
+  font-size:xx-large;
+}
+
+.produto p{
+  font-size: large;
+}
